@@ -1,1 +1,1 @@
-repository contains high level language program codes
+This directory contains codes used for practice in expounding on data structures
